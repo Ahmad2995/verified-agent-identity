@@ -8,7 +8,7 @@ on:
         required: true
         default: 'safei'
       agent_description:
-        description: 'safei'
+        description: 'saf'
         required: true
         default: 'safei AI Agent'
 
