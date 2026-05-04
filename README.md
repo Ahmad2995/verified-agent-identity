@@ -179,3 +179,4 @@ For all other ways to pass environment variables to a skill see the [OpenClaw en
 ## Documentation
 
 See [SKILL.md](SKILL.md) for detailed usage instructions and examples.
+/workspaces/Billions-Agent-test/verified-agent-identity/scripts
